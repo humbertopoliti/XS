@@ -2,46 +2,26 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome to eXplicit Scrum (XS) 🚀
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Introduction
 
-## Getting Started
+eXplicit Scrum (XS) is a tailored version of Scrum, designed to be fully utilized by companies of all sizes. We understand that many organizations want to reap the full benefits of Scrum, but often find it challenging due to a myriad of reasons. XS is here to address this gap.
 
-Get started by **creating a new site**.
+## Our Motto
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+"A place for everything, everything in its place."
 
-### What you'll need
+This motto encapsulates our belief in having a specific and clear-cut approach in the Scrum process, leaving no room for ambiguity.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Why eXplicit Scrum?
 
-## Generate a new site
+The original Scrum Guide, while being a great starting point, can be generic and vague in certain areas. XS takes inspiration from it, but aims to provide explicit and comprehensive guidelines that should be followed without modifications.
 
-Generate a new Docusaurus site using the **classic template**.
+Once a user passes a set of criteria, they are allowed to start making modifications to better suit their specific needs. This ensures that the core principles of Scrum are adhered to, while allowing for flexibility and adaptability.
 
-The classic template will automatically be added to your project after you run the command:
+## Get Started
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Are you ready to take full advantage of Scrum with XS? Dive into our comprehensive guide and get started on your journey.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+We hope you find XS a valuable tool in your Scrum journey. Let's build amazing things together!
