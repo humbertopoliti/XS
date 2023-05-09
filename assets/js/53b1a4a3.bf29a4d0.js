@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunke_xplicit_scrum=self.webpackChunke_xplicit_scrum||[]).push([[6682],{9438:e=>{e.exports=JSON.parse('{"permalink":"/XS/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

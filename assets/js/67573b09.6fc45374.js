@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunke_xplicit_scrum=self.webpackChunke_xplicit_scrum||[]).push([[4889],{9820:e=>{e.exports=JSON.parse('{"permalink":"/XS/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
