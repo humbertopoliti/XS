@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunke_xplicit_scrum=self.webpackChunke_xplicit_scrum||[]).push([[8424],{8720:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/XS/blog/tags/hola","allTagsPath":"/XS/blog/tags","count":1}')}}]);
