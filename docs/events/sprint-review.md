@@ -4,7 +4,7 @@
 
 The Sprint Review is an essential part of Scrum, the iterative and incremental Agile software development framework. It serves as a platform to inspect the increment of product development and adapt the Product Backlog, if needed.
 
-### ⚠️ A place for everything, everything in its place
+### ⭐ A place for everything, everything in its place
 
 The Sprint Review is designed to be the central meeting for exchanging information with stakeholders. It is meant to create transparency, gather feedback, and foster collaboration. If the Sprint Review is conducted effectively, it should be the primary (if not the only) meeting necessary for this purpose. Other meetings with stakeholders should be limited and only arranged if absolutely necessary, in order to respect the time and focus of the Scrum Team.
 
